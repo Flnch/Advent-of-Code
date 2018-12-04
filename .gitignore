@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# PyCharm folder
+.idea/
+
+# Dolphin file browser
+.directory
